@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "id": "mrgig32a0cq6ged4",
+  "slug": "arxiv-2512.17102",
+  "title": "Reinforcement Learning for Self-Improving Agent with Skill Library",
+  "authors": [
+    "Jiongxiao Wang",
+    "Qiaojing Yan",
+    "Yawei Wang",
+    "Yijun Tian",
+    "Soumya Smruti Mishra",
+    "Zhichao Xu",
+    "Megha Gandhi",
+    "Panpan Xu",
+    "Lin Lee Cheong"
+  ],
+  "year": 2025,
+  "arxiv": "2512.17102",
+  "url": "https://arxiv.org/abs/2512.17102",
+  "kind": "book",
+  "wordCount": 14326,
+  "minutes": 48,
+  "contentSha256": "451ad9a278de7cde79174acff3433b96d90aeb5ccfa99edfcda50bbb62cac25d",
+  "originalSha256": null,
+  "ocr": {
+    "provider": "mistral",
+    "at": 1783783175747
+  },
+  "createdAt": 1783783175561,
+  "updatedAt": 1783783175747
+}
