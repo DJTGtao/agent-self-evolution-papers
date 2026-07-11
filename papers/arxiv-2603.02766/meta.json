@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "mrgifjaf08v69rc2",
+  "slug": "arxiv-2603.02766",
+  "title": "EvoSkill: Automated Skill Discovery for Multi-Agent Systems",
+  "authors": [
+    "Salaheddin Alzubi",
+    "Noah Provenzano",
+    "Jaydon Bingham",
+    "Weiyuan Chen",
+    "Tu Vu"
+  ],
+  "year": 2026,
+  "arxiv": "2603.02766",
+  "url": "https://arxiv.org/abs/2603.02766",
+  "kind": "book",
+  "wordCount": 8083,
+  "minutes": 27,
+  "contentSha256": "9f53d3daea3d6fd4c40d601aeb9a9ccadac98f0ea1bc3c0e1da20481efc891d6",
+  "originalSha256": null,
+  "ocr": {
+    "provider": "mistral",
+    "at": 1783783150092
+  },
+  "createdAt": 1783783149930,
+  "updatedAt": 1783783150092
+}
