@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "id": "mrgifrud0aaz4rmb",
+  "slug": "arxiv-2604.01687",
+  "title": "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification",
+  "authors": [
+    "Hanrong Zhang",
+    "Shicheng Fan",
+    "Henry Peng Zou",
+    "Yankai Chen",
+    "Zhenting Wang",
+    "Jiayu Zhou",
+    "Chengze Li",
+    "Wei-Chieh Huang",
+    "Yifei Yao",
+    "Kening Zheng",
+    "Xue Liu",
+    "Xiaoxiao Li",
+    "Philip S. Yu"
+  ],
+  "year": 2026,
+  "arxiv": "2604.01687",
+  "url": "https://arxiv.org/abs/2604.01687",
+  "kind": "book",
+  "wordCount": 11042,
+  "minutes": 37,
+  "contentSha256": "60e4e5226d79002118a13342f05a94ba2afef1e3309f3e89fc42379e3efc431a",
+  "originalSha256": null,
+  "ocr": {
+    "provider": "mistral",
+    "at": 1783783161157
+  },
+  "createdAt": 1783783161017,
+  "updatedAt": 1783783161157
+}
