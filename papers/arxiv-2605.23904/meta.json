@@ -23,15 +23,16 @@
   "year": 2026,
   "arxiv": "2605.23904",
   "url": "https://arxiv.org/abs/2605.23904",
+  "lang": null,
   "kind": "book",
   "wordCount": 14290,
   "minutes": 48,
-  "contentSha256": "96d630a2c503fec3e9768ae5397782aac3972e96fb9bf0ea51b914bfbc341d77",
+  "contentSha256": "f0c99da4e4a9f6eaa201d02d04f39c5f7d21685ab9d628003129df45acef2546",
   "originalSha256": null,
   "ocr": {
     "provider": "mistral",
-    "at": 1783782206800
+    "at": 1783783111606
   },
   "createdAt": 1783782206183,
-  "updatedAt": 1783782206800
+  "updatedAt": 1783783111606
 }
