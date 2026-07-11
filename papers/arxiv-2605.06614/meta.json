@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "mrgif5lg04b97ih0",
+  "slug": "arxiv-2605.06614",
+  "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+  "authors": [
+    "Siru Ouyang",
+    "Jun Yan",
+    "Yanfei Chen",
+    "Rujun Han",
+    "Zifeng Wang",
+    "Bhavana Dalvi Mishra",
+    "Rui Meng",
+    "Chun-Liang Li",
+    "Yizhu Jiao",
+    "Kaiwen Zha",
+    "Maohao Shen",
+    "Vishy Tirumalashetty",
+    "George Lee",
+    "Jiawei Han",
+    "Tomas Pfister",
+    "Chen-Yu Lee"
+  ],
+  "year": 2026,
+  "arxiv": "2605.06614",
+  "url": "https://arxiv.org/abs/2605.06614",
+  "kind": "book",
+  "wordCount": 17240,
+  "minutes": 57,
+  "contentSha256": "784fee0c3304e044de2ef53c728aacf3f5fa4d6a9664bc1bbd55ebdd9951c93c",
+  "originalSha256": null,
+  "ocr": {
+    "provider": "mistral",
+    "at": 1783783132367
+  },
+  "createdAt": 1783783132188,
+  "updatedAt": 1783783132367
+}
