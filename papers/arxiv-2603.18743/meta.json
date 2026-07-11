@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "id": "mrgifd3e06dvin98",
+  "slug": "arxiv-2603.18743",
+  "title": "Memento-Skills: Let Agents Design Agents",
+  "authors": [
+    "Huichi Zhou",
+    "Siyuan Guo",
+    "Anjie Liu",
+    "Zhongwei Yu",
+    "Ziqin Gong",
+    "Bowen Zhao",
+    "Zhixun Chen",
+    "Menglong Zhang",
+    "Yihang Chen",
+    "Jinsong Li",
+    "Runyu Yang",
+    "Qiangbin Liu",
+    "Xinlei Yu",
+    "Jianmin Zhou",
+    "Na Wang",
+    "Chunyang Sun",
+    "Jun Wang"
+  ],
+  "year": 2026,
+  "arxiv": "2603.18743",
+  "url": "https://arxiv.org/abs/2603.18743",
+  "kind": "book",
+  "wordCount": 8616,
+  "minutes": 29,
+  "contentSha256": "0bf0a8a4e94cde22855ac4c34ce297b417e913275071dc21e2ff00b535e6610c",
+  "originalSha256": null,
+  "ocr": {
+    "provider": "mistral",
+    "at": 1783783142075
+  },
+  "createdAt": 1783783141902,
+  "updatedAt": 1783783142075
+}
