@@ -30,7 +30,7 @@ If the recurring object of adaptation is the agent's procedure, the skill docume
 
 arXiv:2605.23904v2 [cs.AI] 25 May 2026
 
-![img-0.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrghvb0t01e53pyt-img-0.jpeg)
+![img-0.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrgiepcs02wvfvhu-img-0.jpeg)
 
 Figure 1 Overview of SKILLOPT. The target model executes tasks with a current skill, an additional frontier optimizer model converts trajectories into bounded add/delete/replace skill edits, and a held-out gate accepts only edits that improve validation performance. Accepted edits are exported as a reusable skill artifact, while rejected edits become negative feedback for later updates.
 
@@ -62,7 +62,7 @@ Skill construction and skill evolution. SkillsBench and the SoK on agentic skill
 
 3
 
-![img-1.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrghvb0t01e53pyt-img-1.jpeg)
+![img-1.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrgiepcs02wvfvhu-img-1.jpeg)
 
 Figure 2 Pipeline of SKILLOPT. A frozen target model executes a rollout batch with the current skill; an optimizer model performs minibatch reflection over successes and failures, proposes bounded add/delete/replace edits, merges and ranks them under a scheduled edit budget, and accepts the candidate skill only through a held-out validation gate. Across epochs, the slow/meta update retains longer-horizon lessons without changing the target model.
 
@@ -345,11 +345,11 @@ Table 2, Figure 3, and Table 3 test the design choices in the optimizer using GP
 
 Train rollout Selection best Unseen test
 
-![img-2.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrghvb0t01e53pyt-img-2.jpeg)
+![img-2.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrgiepcs02wvfvhu-img-2.jpeg)
 
-![img-3.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrghvb0t01e53pyt-img-3.jpeg)
+![img-3.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrgiepcs02wvfvhu-img-3.jpeg)
 
-![img-4.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrghvb0t01e53pyt-img-4.jpeg)
+![img-4.jpeg](file:///data/user/0/host.exp.exponent/files/ExperienceData/%2540anonymous%252Fanthology-74baf6d1-d49f-4fc8-98f3-ca70208bde8b/assets/mrgiepcs02wvfvhu-img-4.jpeg)
 
 Figure 3 Performance trends across epoch checkpoints on three benchmarks: (a) SpreadsheetBench, (b) SearchQA, and (c) LiveMath. For each checkpoint, we report the training rollout score, the selection-best score on the validation set, and the final performance on the unseen test set. The results show how skill quality evolves during optimization and whether the checkpoint preferred by validation selection aligns with the checkpoint that yields the best generalization to the test set.
 
