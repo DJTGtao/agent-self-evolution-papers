@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "id": "mrghvb3302wutizz",
+  "slug": "arxiv-2605.23904",
+  "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+  "authors": [
+    "Yifan Yang",
+    "Ziyang Gong",
+    "Weiquan Huang",
+    "Qihao Yang",
+    "Ziwei Zhou",
+    "Zisu Huang",
+    "Yan Li",
+    "Xuemei Gao",
+    "Qi Dai",
+    "Bei Liu",
+    "Kai Qiu",
+    "Yuqing Yang",
+    "Dongdong Chen",
+    "Xue Yang",
+    "Chong Luo"
+  ],
+  "year": 2026,
+  "arxiv": "2605.23904",
+  "url": "https://arxiv.org/abs/2605.23904",
+  "kind": "book",
+  "wordCount": 14290,
+  "minutes": 48,
+  "contentSha256": "96d630a2c503fec3e9768ae5397782aac3972e96fb9bf0ea51b914bfbc341d77",
+  "originalSha256": null,
+  "ocr": {
+    "provider": "mistral",
+    "at": 1783782206800
+  },
+  "createdAt": 1783782206183,
+  "updatedAt": 1783782206800
+}
