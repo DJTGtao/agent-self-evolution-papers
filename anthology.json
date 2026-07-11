@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "kind": "anthology-papers",
+  "papersDir": "papers",
+  "defaultLang": "en",
+  "description": "Agent self-evolution paper shelf"
+}
